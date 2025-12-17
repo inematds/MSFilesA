@@ -1,0 +1,1 @@
+print("Gerador Word - INEMA")

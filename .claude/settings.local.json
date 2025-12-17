@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(docx)",
+      "Bash(node create-teste.js:*)",
+      "Bash(npm install:*)",
+      "Skill(xlsx)",
+      "WebSearch",
+      "WebFetch(domain:brasilindicadores.com.br)",
+      "WebFetch(domain:www.portalbrasil.net)",
+      "WebFetch(domain:investidor10.com.br)",
+      "WebFetch(domain:br.investing.com)",
+      "WebFetch(domain:www.acinh.com.br)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git fetch:*)",
+      "Bash(ssh-keyscan:*)",
+      "Bash(~/.ssh/known_hosts)",
+      "Bash(cat:*)",
+      "Bash(ssh-add:*)",
+      "Bash(ssh:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
