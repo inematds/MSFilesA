@@ -19,7 +19,8 @@
       "Bash(cat:*)",
       "Bash(ssh-add:*)",
       "Bash(ssh:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdiciona arquivos do projeto design9000\n\n- Skills do Claude para criação de documentos (docx, xlsx, pdf, pptx)\n- Planilha economia_brasil.xlsx com dados de Dólar x CDI x IPCA\n- Documento teste.docx\n- Assets e brand guidelines\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")"
     ],
     "deny": [],
     "ask": []
